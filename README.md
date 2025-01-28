@@ -2,11 +2,11 @@
 ![Logo](https://media.discordapp.net/attachments/1333568926562385983/1333572548025126934/441_Sem_Titulo_20250127200045.png?ex=679961b8&is=67981038&hm=a738c07349e6c886226c456c2f3f6d8aec2ab951b476ae7acff0225eec02f18a&=&format=webp&quality=lossless&width=864&height=273)
 
 ## O que é o jogo?
-**Brasa** é um metroidvania brasileiro que conta histórias de pessoas e grupos marcados pelos estigmas do tempo, resistindo ao medo e a opressão. O jogo está sendo desenvolvido como projeto de ensino do Insituto Federal do Rio Grande do Norte - Campus Pau dos Ferros sobre a orientação do antropólogo Eliaquim Timóteo e do coordenador do curso técnico em Informática, Ciro Daniel Gurgel de Moura.
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless) **Brasa** é um metroidvania brasileiro que conta histórias de pessoas e grupos marcados pelos estigmas do tempo, resistindo ao medo e a opressão. O jogo está sendo desenvolvido como projeto de ensino do Insituto Federal do Rio Grande do Norte - Campus Pau dos Ferros sobre a orientação do antropólogo Eliaquim Timóteo e do coordenador do curso técnico em Informática, Ciro Daniel Gurgel de Moura.
 
 ## Equipe
-**Direção**: Eliaquim Timóteo\n
-**Roteirização**: Eliaquim Timóteo, Maria Luísa\n
-**Arte**: Lucas SCA\n
-**Game Design**: Caio Enzo\n
-**Programação**: Luiz Eufrázio, Igor Câmara\n
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless)**Direção**: Eliaquim Timóteo<br>
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless)**Roteirização**: Eliaquim Timóteo, Maria Luísa<br>
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless)**Arte**: Lucas SCA<br>
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless)**Game Design**: Caio Enzo<br>
+![Ponto](https://media.discordapp.net/attachments/1333405717838692352/1333795059090460744/443_Sem_Titulo_20250128104500.png?ex=679a30f2&is=6798df72&hm=55173a0cb2256ac09e526c2a7eb8a83676fe7851dbf4cfdb1895a39c8a6b6078&=&format=webp&quality=lossless)**Programação**: Luiz Eufrázio, Igor Câmara<br>
