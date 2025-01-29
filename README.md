@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/79cf4188-3240-409e-b11a-da889f713da8)# Brasa: A chama da resistência.
+# Brasa: A chama da resistência.
 ![Logo](https://media.discordapp.net/attachments/1333568926562385983/1334269414446600323/441_Sem_Titulo_20250129180821.png?ex=679beab9&is=679a9939&hm=708ce6919c7dd91bb100467567925ffc74af4c01840cec95a2a1feb27f693a67&=&format=webp&quality=lossless&width=864&height=273)
 
 ## O que é o jogo?
