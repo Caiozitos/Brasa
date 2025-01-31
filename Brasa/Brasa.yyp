@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Salas","folderPath":"folders/Salas.yy","name":"Salas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Ambiente","folderPath":"folders/Sprites/Ambiente.yy","name":"Ambiente","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -21,15 +22,17 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Brasa",
   "resources":[
+    {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},},
     {"id":{"name":"spr_arvoresIgapo","path":"sprites/spr_arvoresIgapo/spr_arvoresIgapo.yy",},},
     {"id":{"name":"spr_mataRasteira","path":"sprites/spr_mataRasteira/spr_mataRasteira.yy",},},
     {"id":{"name":"spr_mataRasteiraPequena","path":"sprites/spr_mataRasteiraPequena/spr_mataRasteiraPequena.yy",},},
     {"id":{"name":"spr_tilesetFloresta","path":"sprites/spr_tilesetFloresta/spr_tilesetFloresta.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"tis_floresta","path":"tilesets/tis_floresta/tis_floresta.yy",},},
   ],
   "resourceType":"GMProject",
